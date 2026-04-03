@@ -1,0 +1,15 @@
+{
+  "user": {
+    "user_id": "default",
+    "skin_type": null,
+    "skin_concerns": [],
+    "age_range": null,
+    "budget": "中端",
+    "personality": "美妆闺蜜"
+  },
+  "preferences": {
+    "reminder_enabled": false,
+    "reminder_time": "20:00",
+    "language": "zh-CN"
+  }
+}
